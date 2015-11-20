@@ -1,6 +1,6 @@
-# Getting-and-cleaning-data Project
-#Point 1
-X_test <- read.table("X_test.txt", check.names=F, sep="", stringsAsFactors=F)
+# Getting-and-cleaning-data Project\n
+#Point 1\n
+X_test <- read.table("X_test.txt", check.names=F, sep="", stringsAsFactors=F)\n
 Y_test <- read.table("Y_test.txt", check.names=F, sep="", stringsAsFactors=F)
 subject_test <- read.table("subject_test.txt", check.names=F, sep="", stringsAsFactors=F)
 X_train <- read.table("X_train.txt", check.names=F, sep="", stringsAsFactors=F)
